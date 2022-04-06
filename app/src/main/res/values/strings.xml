@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application5</string>
+    <string name="logo">Brains and Numbers</string>
+    <string name="hint_user_field">Введите число</string>
+    <string name="button">Ответ</string>
+    <string name="example1">ЦЫФРА1</string>
+    <string name="example2">ЦЫФРА2</string>
+    <string name="sum">Сумма</string>
+    <string name="no_user_input">Введите ответ...</string>
+</resources>
